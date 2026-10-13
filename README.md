@@ -43,6 +43,8 @@ O conjunto de teste mantém sua distribuição original.
 
 ## Execução
 
+Importe o arquivo projeto_manutencao_preditiva.ipynb no Google Colab ou
+
 Crie um ambiente virtual e instale as dependências:
 
 ```bash
